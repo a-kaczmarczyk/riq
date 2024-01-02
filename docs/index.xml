@@ -6,15 +6,14 @@
     <description>Recent content in Docs on Ripples In Quicksilver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 22:20:32 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 00:08:27 -0500</lastBuildDate>
     <atom:link href="https://a-kaczmarczyk.github.io/riq/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://a-kaczmarczyk.github.io/riq/docs/test/</link>
-      <pubDate>Mon, 01 Jan 2024 22:20:32 -0500</pubDate>
-      <guid>https://a-kaczmarczyk.github.io/riq/docs/test/</guid>
-      <description>This is a test page Test page code block
-Block qoute</description>
+      <title>Introduction</title>
+      <link>https://a-kaczmarczyk.github.io/riq/docs/intro/</link>
+      <pubDate>Tue, 02 Jan 2024 00:08:27 -0500</pubDate>
+      <guid>https://a-kaczmarczyk.github.io/riq/docs/intro/</guid>
+      <description>New Year&amp;rsquo;s Resolutions It&amp;rsquo;s the night of January 1st 2024, or at least that&amp;rsquo;s the day I woke up this morning. By the time this is published it&amp;rsquo;ll be after midnight. I suppose some introductions are in order; my name is Adrian Kaczmarczyk (I pronounce it &amp;ldquo;kaz-mar-zik&amp;rdquo;) and this is my personal blog. I intend to use it to post about technical concepts I think up and find clever or amusing.</description>
     </item>
   </channel>
 </rss>
