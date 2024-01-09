@@ -6,8 +6,15 @@
     <description>Recent content on Ripples In Quicksilver</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2024 00:08:27 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 20:38:00 -0500</lastBuildDate>
     <atom:link href="https://a-kaczmarczyk.github.io/riq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing a Power Amplifier for CATS: Part 1</title>
+      <link>https://a-kaczmarczyk.github.io/riq/docs/cats_pa1/</link>
+      <pubDate>Mon, 08 Jan 2024 20:38:00 -0500</pubDate>
+      <guid>https://a-kaczmarczyk.github.io/riq/docs/cats_pa1/</guid>
+      <description>My friend and fellow ham Stephen Downward VE9QLE has been hard at work developing hardware and software for a digital packet mode he is calling CATS, short for Communication and Telemetry System1. CATS aims to offer a similar functionality to the widely adopted but long-in-the-tooth Automatic Packet Reporting System (APRS), though the CATS protocol is designed to take advantage of the substantial improvements in inexpensive, off-the-shelf RF and embedded computing hardware available in the present day.</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://a-kaczmarczyk.github.io/riq/docs/intro/</link>
